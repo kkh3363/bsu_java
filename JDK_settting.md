@@ -36,4 +36,5 @@
   - Open a new Command Prompt (type cmd in the Windows start menu).
   - Run the command __*java -version*__ and press Enter.
   - Run the command __*javac -version*__ and press Enter.
+    
 If both commands return the correct version number without errors, your configuration is complete.
