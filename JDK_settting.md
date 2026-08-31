@@ -1,4 +1,4 @@
-## Complete environment
+## To set up the JDK path on Windows
 
 ### 1. JDK installation
 -  Download Java SE Development Kit 25.0.4.1 downloads
