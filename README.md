@@ -1,3 +1,3 @@
-# bsu_java2026
+# JAVA Programming
 
 
